@@ -1,1 +1,16 @@
+body{
+    background-color: deeppink;
+    background-image: url(./pexels-photo-1181406.jpg);
+    background-size: cover;
 
+}
+h1{
+    color: midnightblue;
+}
+h2{
+ font-style: oblique;
+}
+li{
+font-weight: bolder;
+color: midnightblue;
+}
